@@ -1,62 +1,56 @@
-# DeepThought AI Business Analyst (Ecommerce) Assignment Prep Package
+# DeepThought AI Business Analyst (Ecommerce) Assignment Submission
 
-Welcome to your preparation package for the DeepThought AI Business Analyst (Ecommerce) assignment! This folder contains all the materials, calculations, scripts, and spreadsheet models needed to complete your submission successfully.
-
----
-
-## Folder Directory Structure
-
-1. **[Learnability_Prep.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Learnability_Prep.md)**: Research notes on ROAS, ACOS, and TACOS with custom examples. Contains the **5+ minute voice note script** (Learnability Submission).
-2. **[Hand_Drawn_Diagram_Guide.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Hand_Drawn_Diagram_Guide.md)**: A complete conceptual guide mapping the interactions between Psychology, Technology, and Business. Use this as your guide to sketch the mandatory hand-drawn diagram.
-3. **[Task_1_Viability_Analysis.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_1_Viability_Analysis.md)**: Full step-by-step mathematical answers for Questions 1 to 6 (GlowNest serum). Contains the **2-3 minute campaign analysis voice note script**.
-4. **[generate_model.py](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/generate_model.py)**: Python script to automatically compile your dynamic Excel profitability model (`GlowNest_Profitability_Model.xlsx`).
-5. **[Task_2_Scenario_Answers.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_2_Scenario_Answers.md)**: Business findings and data comparison tables for the four scenario exploration questions in Task 2.
-6. **[Task_3_Operational_Scenario.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_3_Operational_Scenario.md)**: A written account status update showing systems thinking (V3 Eyes) and talking points for the MD meeting (NestWell). Contains the **2-3 minute reflection voice note script**.
+This repository contains the completed deliverables for the **AI Business Analyst (Ecommerce)** position at **DeepThought**. It showcases a blend of operational precision (V1 work) and systems-level thinking (V3 eyes) across Amazon advertising unit economics, dynamic modeling, and client communication.
 
 ---
 
-## Action Plan for Submission
+## 🚀 Repository Contents & Navigation
 
-To complete your assignment, follow these simple steps:
+* **[Learnability_Prep.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Learnability_Prep.md)**: Research and detailed explanations of ROAS, ACOS, and TACOS, featuring a custom organic coffee brand example (**EcoBeans**). Includes the **5+ minute voice note script** (Learnability Section).
+* **[Hand_Drawn_Diagram_Guide.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Hand_Drawn_Diagram_Guide.md)**: Concept layout mapping the interactions between **Psychology, Technology, and Business** in a systems loop.
+* **[Task_1_Viability_Analysis.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_1_Viability_Analysis.md)**: Comprehensive unit economics and scenario math for the **GlowNest** premium serum campaign, plus the **2-3 minute approach voice note script**.
+* **[GlowNest_Profitability_Model.xlsx](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/GlowNest_Profitability_Model.xlsx)**: A dynamic, interactive Excel spreadsheet featuring a campaign profitability calculator, scenario explorer, and a data-backed spend-profit line chart.
+* **[Task_2_Scenario_Answers.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_2_Scenario_Answers.md)**: Detailed business explanations and data tables answering the model exploration scenarios (Price Sensitivity, Inflation Pressure, SEO Growth, Category shifts).
+* **[Task_3_Operational_Scenario.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_3_Operational_Scenario.md)**: 
+  * **Part A**: Client account status update for the Team Lead showcasing **V3 Eyes** systems thinking.
+  * **Part B**: Strategic talking points for a meeting with the **MD of NestWell**, focusing on P&L, expansion, and client onboarding.
+  * **Part C**: Complete **2-3 minute reflection voice note script**.
 
-### Step 1: Draw the Diagram
-1. Open the **[Hand_Drawn_Diagram_Guide.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Hand_Drawn_Diagram_Guide.md)**.
-2. Get a blank sheet of paper and a pen.
-3. Sketch the triangle layout showing **Psychology, Technology, and Business**.
-4. Write out the key bullet points inside the boxes and label the connection arrows as outlined.
-5. Take a clear photo or scan of your hand-drawn page and save it as `02_Hand_Drawn_Diagram.jpg` (or `.pdf`).
+---
 
-### Step 2: Generate the Dynamic Excel Model
-1. Run the `generate_model.py` script on your system:
-   ```powershell
-   python generate_model.py
-   ```
-2. This creates **`GlowNest_Profitability_Model.xlsx`** in this directory. 
-3. Upload this file to your Google Drive and open it with **Google Sheets** (save it as a Google Sheet).
-4. Review the spreadsheet's tabs: `Calculator`, `Scenario Explorer`, and `Chart Data & Viz`. Verify that changing the input values dynamically recalculates all formulas.
+## 📊 Performance & Scenario Summary (Quick View)
 
-### Step 3: Record the Three Voice Notes
-Using the scripts provided, record the three required audio files. Try to speak naturally and in a conversational tone (don't read them flatly):
-1. **Learnability Voice Note (5+ mins)**: Follow the script outline in **[Learnability_Prep.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Learnability_Prep.md)**.
-2. **Task 1: Approach Voice Note (2-3 mins)**: Follow the script in **[Task_1_Viability_Analysis.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_1_Viability_Analysis.md)**.
-3. **Task 3: Reflection Voice Note (2-3 mins)**: Follow the script in **[Task_3_Operational_Scenario.md](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/Task_3_Operational_Scenario.md)**.
+Below is a summary of the economic scenarios explored using our dynamic model:
 
-### Step 4: Compile Written Deliverables
-You can combine your written deliverables into a single Google Doc or PDF containing:
-1. **Task 1: Viability Analysis** (content from `Task_1_Viability_Analysis.md`).
-2. **Task 2: Scenario Analysis Answers** (content from `Task_2_Scenario_Answers.md`).
-3. **Task 3A: Account Status Update** (content from `Task_3_Operational_Scenario.md` Part A).
-4. **Task 3B: MD Talking Points** (content from `Task_3_Operational_Scenario.md` Part B).
+| Metric | Base Case | 1. Price Sensitivity | 2. Cost Pressure | 3. Organic Growth | 4. Category Shift |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Selling Price (SP)** | **₹800** | ₹950 | ₹800 | ₹800 | ₹700 |
+| **COGS** | **₹280** | ₹280 | ₹336 (supply inflation) | ₹280 | ₹280 |
+| **Amazon Referral Fee (%)** | **12.0%** | 12.0% | 12.0% | 12.0% | 12.0% |
+| **Monthly Ad Spend** | **₹3,00,000** | ₹3,00,000 | ₹3,00,000 | ₹3,00,000 | ₹3,00,000 |
+| **Units Sold via Ads** | **1,500** | 1,500 | 1,500 | 1,500 | 1,500 |
+| **Organic Units Sold** | **2,000** | 2,000 | 2,000 | **3,500** (SEO Compound) | 2,000 |
+| **Total Monthly Revenue** | **₹28,00,000** | ₹33,25,000 | ₹28,00,000 | **₹40,00,000** | ₹24,50,000 |
+| **Total Monthly Profit** | **₹10,34,000** | **₹14,96,000** | **₹8,38,000** | **₹16,70,000** | **₹7,26,000** |
+| **ACOS** | **25.0%** | **21.1%** | 25.0% | 25.0% | **28.6%** |
+| **TACOS** | **10.7%** | **9.0%** | 10.7% | **7.5%** | **12.2%** |
+| **Break-Even Ad Spend** | **₹13,34,000** | **₹17,96,000** | **₹11,38,000** | **₹19,70,000** | **₹10,26,000** |
 
-### Step 5: Upload and Share
-Create a single Google Drive folder containing:
-* `01_Learnability_Voice_Note.mp3` (or `.m4a`/`.wav`)
-* `02_Hand_Drawn_Diagram.pdf` (or `.jpg`)
-* `03_Written_Deliverables.pdf` (or Google Doc)
-* `04_Dynamic_Profitability_Model` (Google Sheet)
-* `05_Task_1_Approach_Voice_Note.mp3`
-* `06_Task_3_Reflection_Voice_Note.mp3`
+---
 
-Set the folder permissions to **"Anyone with the link can view"** and share the link via the channel you received the assignment from.
+## 💡 Key Systems-Level Highlights ("V3 Eyes")
 
-Good luck! You've got this.
+* **The Halo Effect**: ACOS stays stagnant (25%) in both the Base Case and the Organic Growth case, but TACOS drops from **10.7% to 7.5%**. This reveals that ad spend is building search equity, leading to higher margins over time.
+* **Price over Price Wars**: Dropping the retail price to ₹700 to match a competitor results in a **29.8% drop in net profit** and worsens ACOS to **28.6%**. Our recommendation is to maintain the ₹800 price point and invest in **Sponsored Brand Video ads** to reinforce premium positioning.
+* **Operational Pattern Spotting**: Client reporting questions from two accounts flagged a report design problem. Additionally, making operational optimizations visible (via weekly changelogs) was identified as a critical process improvement to reduce Month 3 client churn.
+
+---
+
+## 🛠️ How to Use the Dynamic Model
+
+1. Open **[GlowNest_Profitability_Model.xlsx](file:///C:/Users/limje/.gemini/antigravity/scratch/dt_ai_business_analyst/GlowNest_Profitability_Model.xlsx)** in Microsoft Excel or upload it to **Google Sheets**.
+2. **Calculator Tab**: Edit any values in the grey **INPUT SECTION** (Cells B4 to B10).
+3. The **OUTPUT SECTION** (Cells B13 to B22) will automatically recalculate using dynamic formulas.
+4. **Conditional Formatting**: Cells will turn **red** if profit drops below 0, and TACOS will turn **yellow** if it exceeds 15%.
+5. **Scenario Explorer Tab**: View side-by-side comparisons of simulated scenarios.
+6. **Chart Data & Viz Tab**: View the line chart plotting **Ad Spend vs. Net Profit** under diminishing returns.
